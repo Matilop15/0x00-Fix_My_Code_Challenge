@@ -2,6 +2,8 @@
 """
 squeareee
 """
+
+
 class square():
     """ clas square"""
     width = 0
