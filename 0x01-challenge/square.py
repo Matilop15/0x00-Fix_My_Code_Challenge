@@ -1,5 +1,7 @@
 #!/usr/bin/python3
-
+"""
+squeareee
+"""
 class square():
     """ clas square"""
     width = 0
